@@ -26,7 +26,7 @@ DNS zones signed by DNSSEC depend on various information, components and configu
 * Cover NXDOMAIN by NSEC chaining
 * Relation between DS and DNSKEY records
 * Master-Slave replication (integrity, operability)
-* Timing: TTL, SOA expiration, validity period
+* Timing: TTL, SOA expiration, validity period, caching resolvers
 * Secure delegations / resolving
 
 One check for one component
